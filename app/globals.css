@@ -57,3 +57,19 @@ body {
     font-size: 1.5rem;
   }
 }
+
+/* Animações das caveiras */
+.skull {
+  position: absolute;
+  font-size: 2rem;
+  opacity: 0.7;
+  animation: float linear infinite;
+  pointer-events: none;
+}
+
+/* Responsividade das caveiras */
+@media (max-width: 640px) {
+  .skull {
+    font-size: 1.5rem;
+  }
+}
