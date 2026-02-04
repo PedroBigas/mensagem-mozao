@@ -35,13 +35,13 @@ export default function Home() {
           <div className="pt-4 space-y-2 text-gray-700">
             <p className="text-base sm:text-lg">
               <span className="font-semibold text-pink-600">Pedro Bigas</span> ❤️{" "}
-              <span className="font-semibold text-pink-600">Celyna Daminello</span>
+              <span className="font-semibold text-pink-600">Gabriel Oraggio</span>
             </p>
             <p className="text-sm sm:text-base text-gray-600">
-              Juntos desde 12/07/2020
+              Juntos desde o nascimento
             </p>
             <p className="text-lg font-bold text-purple-600 sm:text-xl md:text-2xl">
-              5 anos de amor! 💖
+              Amor para sempre! 💖
             </p>
           </div>
         </div>
