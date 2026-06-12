@@ -22,7 +22,7 @@ export default function Home() {
       <main className="relative z-10 flex min-h-screen flex-col items-center justify-center px-4 py-8 text-center">
         <div className="w-full max-w-md space-y-6 rounded-3xl bg-white/80 p-6 shadow-2xl backdrop-blur-sm sm:p-8 md:p-10">
           <h1 className="text-4xl font-bold text-pink-600 sm:text-5xl md:text-6xl">
-            Oraggio
+            Beatriz
           </h1>
           
           <div className="space-y-3">
@@ -35,10 +35,10 @@ export default function Home() {
           <div className="pt-4 space-y-2 text-gray-700">
             <p className="text-base sm:text-lg">
               <span className="font-semibold text-pink-600">Pedro Bigas</span> ❤️{" "}
-              <span className="font-semibold text-pink-600">Gabriel Oraggio</span>
+              <span className="font-semibold text-pink-600">Beatriz de Souza</span>
             </p>
             <p className="text-sm sm:text-base text-gray-600">
-              Juntos desde o nascimento
+              Juntos desde 16/03/2026
             </p>
             <p className="text-lg font-bold text-purple-600 sm:text-xl md:text-2xl">
               Amor para sempre! 💖
